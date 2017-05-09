@@ -1,5 +1,6 @@
 # Course Scheduler
 Created by Meher Vohra, Rosanne Hu, and Remi Kobayashi
+
 Program that helps students create their ideal course schedule, based on user preferences and timing. 
 How to use the Course Scheduler?
 
